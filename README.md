@@ -7,7 +7,7 @@
 This project is an authentication system for users. It is an introductory project that shows areas of django rest framework which includes concepts like endpoints and serializers. In this work django, django rest framework, postman for testing api and swagger for project documentation and API testing.
 
 
-###Endpoints
+### Endpoints
 
 1. register/:
 User should be able to register using email address, username and password. In this project upon user registration a user is sent an OTP code in their email.
